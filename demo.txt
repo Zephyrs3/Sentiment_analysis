@@ -1,2 +1,12 @@
-hello
-sample
+import github3
+
+gh = github3.login(username=' ', password=' ')
+repository = gh.repository('Zephyrs3', 'Sentiment_analysis')
+file_info = 'demo.txt'
+files_to_upload = ["demo.txt"]
+message = "Updated"
+for file_info in files_to_upload:
+    with open(file_info, 'rb') as fd:
+        contents = fd.read()
+    contents_object = repository.file_contents(file_info)
+    contents_object.update(message, contents)
