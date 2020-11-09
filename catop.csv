@@ -1,16 +1,3 @@
 cat_score,cat_label
 0.565457,/business and industrial/advertising and marketing
-0.799312,/technology and computing/internet technology/social network
-0.768372,/business and industrial/energy/renewable energy
-0.750946,/business and industrial/energy/renewable energy
-0.729346,/business and industrial/energy/renewable energy
-0.79566,"/law, govt and politics/politics"
-0.827394,/science/weather/meteorological disaster/flood
-0.747217,/science/weather/meteorological disaster/flood
-0.718642,"/law, govt and politics/politics/elections/presidential elections"
-0.72368,"/law, govt and politics/politics/elections/presidential elections"
-0.70227,"/law, govt and politics/politics/elections/presidential elections"
-0.701644,"/law, govt and politics/politics/elections/presidential elections"
-0.706964,"/law, govt and politics/politics/elections/presidential elections"
-0.744754,"/law, govt and politics"
-0.75144,"/law, govt and politics/politics/elections/presidential elections"
+0.966878,/finance/investing
