@@ -1,7 +1,3 @@
 cat_score,cat_label
 0.565457,/business and industrial/advertising and marketing
-0.810862,/science/weather/meteorological disaster/hurricane
-0.799889,/science/weather/meteorological disaster/hurricane
-0.999732,/health and fitness/disease/cold and flu
-0.994009,/health and fitness/disease/cold and flu
-0.993046,/health and fitness/disease/cold and flu
+0.586627,"/law, govt and politics"
